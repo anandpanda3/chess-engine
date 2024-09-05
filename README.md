@@ -4,14 +4,12 @@
 
 ## Downloads
 
-### The game
 
-You can download the latest release here:  [Latest release](https://github.com/zachartrand/Chess/releases)
 
 You can also clone the repository with the following terminal command:
 
 ```bash
-git clone https://github.com/zachartrand/Chess.git
+git clone https://github.com/anandpanda3/chess-engine.git
 ```
 
 ### Dependencies
